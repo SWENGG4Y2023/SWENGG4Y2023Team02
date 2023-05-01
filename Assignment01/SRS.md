@@ -35,9 +35,9 @@
    - ### **1.1 Purpose**
       The Fitbit Health and Wellness app is a companion app for Fitbit devices that allows users to track their fitness progress, set goals, and connect with friends and family for added motivation. The app allows users to log a variety of metrics, such as steps taken, calories burned, and heart rate. Users can also log their food intake, water consumption, and weight, which can help them track their progress towards weight loss or other health goals. The app also provides users with detailed data and insights about their sleep quality, including how much time they spend in different sleep stages and how often they wake up during the night.
 
-One of the key features of the Fitbit Health and Wellness app is its social aspect. Users can connect with friends and family who also use Fitbit devices, and they can compete with each other in challenges to see who can reach their fitness goals first. The app also allows users to join groups of like-minded individuals who share similar fitness goals or interests.
+      One of the key features of the Fitbit Health and Wellness app is its social aspect. Users can connect with friends and family who also use Fitbit devices, and they can compete with each other in challenges to see who can reach their fitness goals first. The app also allows users to join groups of like-minded individuals who share similar fitness goals or interests.
 
-Overall, the Fitbit Health and Wellness app is a powerful tool for anyone looking to improve their fitness and overall health. By tracking their progress and connecting with others, users can stay motivated and on track towards their goals.
+      Overall, the Fitbit Health and Wellness app is a powerful tool for anyone looking to improve their fitness and overall health. By tracking their progress and connecting with others, users can stay motivated and on track towards their goals.
       
    - ### **1.2 Document Conventions**
       Fitbit makes use of the following conventions: 
