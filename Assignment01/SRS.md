@@ -132,11 +132,8 @@ We intend to develop a mobile application as our desired solution, using Flutter
    The features that are available to the Admin are:  
 
    -   Admin can Add / Delete / Update Trainers and Customer details.  
-
    -   Admin has all rights to view the details of users.  
-
    -   Admin can also view Transaction Details and update fitness membership packages with the trainers. 
-
    -   Validate and verify trainers based upon their certification and feedback.
 
    - ### **3.2 User Features**
@@ -144,64 +141,53 @@ We intend to develop a mobile application as our desired solution, using Flutter
    The features that are available to the users are  
 
    -   Can view profile history and details  
-
    -   Makes inquiries and can take training membership.  
-
    -   Can schedule a fitness consultancy session. 
-
    -   Can view their past fitness records. 
-
    -   Can create their self-fitness goals. 
-
    -   Can give feedback to the trainers. 
-
    -   Can provide feedback to the trainers and the fitness consultants 
+  
    - ### **3.3 Trainer Features**
 
    The features that are available to the Trainer are:  
 
    -   Trainer can view Member details who have subscribed to them.  
-
    -   Accept or reschedule consultancy sessions with the users. 
-
    -   Provide their fitness work-out details to the users. 
-
    -   Can charge fees from the subscribed user. 
-
    -   Trainers can also add blogs and videos about their activities. 
 
 ## 4. External Interface Requirements
    - ### **4.1 User Interface Requirements**
+  
    The user interface is designed in Flutter. The developer will have to study the designing of the product. The user of the product will get very user-friendly mobile features which will be very easy to work with. Our mobile application works for both Android and iOS. 
 
    -  ### **4.2 Hardware Interface Requirements**
-   This system doesn’t require any specific hardware interface. The one used here is a smartphone. The system should have these hardware requirements minimum of:  
+   
+      This system doesn’t require any specific hardware interface. The one used here is a smartphone. The system should have these hardware requirements    minimum of:  
 
-   Processor: Any processor with 1.5GHz speed 
-
-   Android: Lollipop 5.1.0 or above 
-
-   IOS: 12.0.0 or above 
-
-   RAM: 512MB or above 
-
-   Memory: 4GB or above 
+         -  Processor: Any processor with 1.5GHz speed 
+         -  Android: Lollipop 5.1.0 or above 
+         -  IOS: 12.0.0 or above 
+         -  RAM: 512MB or above 
+         -  Memory: 4GB or above 
      
    -  ### **4.3 Software Interface Requirements**
-   Operating System: Windows 11 
-   Front End: Flutter, Dart Programming Language. 
-   Back End: MySQL, C++ 
+      
+         -  Operating System: Windows 11 
+         -  Front End: Flutter, Dart Programming Language. 
+         -  Back End: MySQL, C++ 
       
    -  ### **4.4 Communication Interface Requirements**
+   
       Communication is done through internet and intranet mail or Telephones and Messaging 
+      
 ## **5. Nonfunctional Requirements**
 
-   -  ### **5.1 Performance Requirements**
-
-   -  ### **5.2 Safety Requirements**
- 
-   -  ### **5.3 Security Requirements**
-
-   -  ### **5.4 Software Quality Attributes**
+       -  ### **5.1 Performance Requirements**
+       -  ### **5.2 Safety Requirements**
+       -  ### **5.3 Security Requirements**
+       -  ### **5.4 Software Quality Attributes**
 
 ## **6. Other Requirements**
