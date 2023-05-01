@@ -40,6 +40,7 @@ The Fitbit app is optimized for these devices and platforms, ensuring that users
 ## **User requirements for Fitbit application:**
 
 1.  **User Needs:**
+
 The Fitbit app should meet the following user needs:
 
 -   Easily track fitness and activity levels
@@ -50,6 +51,7 @@ The Fitbit app should meet the following user needs:
 -   Provide accurate and timely data insights to monitor progress and adjust fitness goals accordingly
 
 2.  **App Features and Functionalities:**
+
 The Fitbit app should include the following features and functionalities to meet user needs:
 
 -   Activity tracking (e.g., step count, distance, calories burned)
@@ -61,6 +63,7 @@ The Fitbit app should include the following features and functionalities to meet
 -   Integration with other fitness and health apps and devices
 
 3.  **Performance Requirements:**
+
 The Fitbit app should meet the following performance requirements:
 
 -   Fast and responsive user interface
@@ -69,6 +72,7 @@ The Fitbit app should meet the following performance requirements:
 -   High levels of security and data protection
 
 4.  **User Interface and Design:**
+
 The Fitbit app should have a user-friendly interface and design, including:
 
 -   Clear and easy-to-understand navigation and menus
