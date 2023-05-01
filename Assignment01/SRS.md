@@ -67,7 +67,12 @@
 
    -  ### **1.5 References**
          - Fitbit Help Center: https://help.fitbit.com/
-         - 
+         - Fitbit research studies:
+            https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6629209/
+            https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872186/
+            https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534733/
+         - Sichuan University Documents: https://www.studocu.com/row/document/sichuan-university
+         - Nike Training Club: https://www.nike.com/ntc-app
 
 
 ##  **2. Overall Description**
