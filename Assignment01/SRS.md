@@ -71,7 +71,7 @@
    - ### **2.1 Product Perspective**
       This Mobile App is an independent system designed to handle various activities related to a gym, including exercises, generating member's report, managing trainers, and handling administrative issues. The system stores all records in a centralized database, which can only be accessed by the admin with unique IDs and specific permissions. To ensure data integrity, members are not permitted to modify records belonging to other Fitbit Members. Additionally, the system offers data recovery options in case of any lost data.
    -  ### **2.2 Product Features**
-      Fitbit is an app that provides fitness and wellness advice to its users through a set of exercise activities, nutritional diet charts, and even real-time health coaching. The app utilizes artificial intelligence, machine learning, and other technologies to provide personalized fitness programs to our members.
+      Fitbit is an app that provides fitness and wellness advice to its users through a set of exercise activities, nutritional diet charts, and even real-time health coaching. The app utilizes artificial intelligence, machine learning, and other technologies to provide personalized fitness programs to our fitbit members.
       The major feature of our app includes:
 
       -  Footstep & Activity Tracker
@@ -84,14 +84,14 @@
       -  AI-enabled workout schedule
       
    -  ### 2.3 **User Classes and Characteristics**
-      Our app is available for download on both the Play Store for Android devices and the App Store for Apple devices. The app is designed to cater to three types of users: Trainers, Members, and Administrators.
+      Our app is available for download on both the Play Store for Android devices and the App Store for Apple devices. The app is designed to cater to three types of users: Trainers, Fitbit Members, and Administrators.
 
          - Trainers:
              These are the people who can create and share workout schedules and activities for our Fitbit members. To ensure quality service, Trainers are required to possess at least a basic certification as an instructor.
-         -  Members:
+         -  Fitbit Members:
       These are the individuals who are interested in improving their lifestyle and seeking guidance from our verified trainers. These individuals can access a range of consultation services through our app to achieve their fitness goals.
          -  Administrators:
-      The role of an Administrator in our app is to have complete access to all users, including both Members and Trainers, as well as AI-generated workouts. Administrators should possess a sound understanding of health and fitness to ensure that they can effectively verify a Trainer's profile.
+      The role of an Administrator in our app is to have complete access to all users, including both Fitbit Members and Trainers, as well as AI-generated workouts. Administrators should possess a sound understanding of health and fitness to ensure that they can effectively verify a Trainer's profile.
 
 
  -  ### **2.4 Operating Environment**
@@ -129,7 +129,7 @@ Community forums: Fitbit also maintains community forums where users can ask que
    -  ### **2.7 Assumptions and Dependencies**
     
        -  Performance: It may include performance requirements for the  app, such as response time, scalability, and availability.
-       -  User Base: It is assumed that the app is having enough pre-joined trainers who can deal with the newly joined members.
+       -  User Base: It is assumed that the app is having enough pre-joined trainers who can deal with the newly joined fitbit members.
        -  Pre Knowledge :It is assumed that the administrator should have good knowledge of fitness and health so that they can validate the trainer’s profile.
        -  Platform: It is assumed that the platform on which the gym app will run, such as iOS or Android.
        -  User Interface: It is assumed that a user interface design for the gym app, including a color scheme, logo, and overall layout.
