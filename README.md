@@ -1,7 +1,7 @@
 # Team02
 BITS ID     | Name
 ----------  | -----
-2021hs70004 | Kartik Kapoor
+2021hs70005 | Kartik Kapoor
 2021hs70013 | Ayush Behl
 2021hs70014 | Navya Khurana
 
