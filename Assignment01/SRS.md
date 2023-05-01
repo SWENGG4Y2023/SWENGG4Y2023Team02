@@ -70,53 +70,19 @@
 ##  **2. Overall Description**
 
    - ### **2.1 Product Perspective**
-This Mobile App is an independent system designed to handle various activities related to a gym, including exercises, generating customer reports, managing trainers, and handling administrative issues. The system stores all records in a centralized database, which can only be accessed by authorized users with unique IDs and specific permissions. To ensure data integrity, users are not permitted to modify records belonging to other customers. Additionally, the system offers data recovery options in case of any lost data.
+
    -  ### **2.2 Product Features**
-Fitbit is an app that provides fitness and wellness advice to its users through a set of exercise activities, nutritional diet charts, and even real-time health coaching. The app utilizes artificial intelligence, machine learning, and other technologies to provide personalized fitness programs to customers.
-The major feature of our app includes:
-
-  -  Footstep & Activity Tracker
-  -  Heart Monitoring                             
-  -  Water & Sleep Tracker
-  -  BMI Calculator
-  -  Altimeter - for tracking stairs climbed
-  -  Online consultation with trainers
-  -  Helps to Monitor Diet
-  -  AI-enabled workout schedule
-      
+           
    -  ### 2.3 **User Classes and Characteristics**
-Our app is available for download on both the Play Store for Android devices and the App Store for Apple devices. The app is designed to cater to three types of users: Trainers, Members, and Administrators.
 
--  Trainers
-Trainers are the users who can create and share workout schedules and activities for our customers. To ensure quality service, Trainers are required to possess at least a basic certification as an instructor.
--  Members
-These are the individuals who are interested in improving their lifestyle and seeking guidance from our verified trainers. These individuals can access a range of consultation services through our app to achieve their fitness goals.
--  Administrators
-The role of an Administrator in our app is to have complete access to all users, including both Customers and Trainers, as well as AI-generated workouts. Administrators should possess a sound understanding of health and fitness to ensure that they can effectively verify a Trainer's profile.
+   -  ### **2.4 Operating Environment**
 
 
- -  ### **2.4 Operating Environment**
-Fitbit will be used over smartphones:
-     -  Android: Lollipop 5.1.0 or above
-     -  IOS: 12.0.0 or above
-     -  RAM: 512MB or above
-
-
- -  ### **2.5 Design and Implementation Constraints**
-We intend to develop a mobile application as our desired solution, using Flutter for the user interface and MySQL database for data storage and management. Additionally, we will be utilizing Firebase to track daily customer interactions and to provide notifications to both our members and trainers.
+   -  ### **2.5 Design and Implementation Constraints**
 
    -  ### **2.6 User Documentation**
 
    -  ### **2.7 Assumptions and Dependencies**
-    
-       -  Performance: It may include performance requirements for the  app, such as response time, scalability, and availability.
-       -  User Base: It is assumed that the app is having enough pre-joined trainers who can deal with the newly joined members.
-       -  Pre Knowledge :It is assumed that the administrator should have good knowledge of fitness and health so that they can validate the trainer’s profile.
-       -  Platform: It is assumed that the platform on which the gym app will run, such as iOS or Android.
-       -  User Interface: It is assumed that a user interface design for the gym app, including a color scheme, logo, and overall layout.
-       -  Integration: Integration with other third-party services, such as fitness tracking devices, payment gateways, and social media platforms is assumed.
-       -  Security: The SRS document may assume security features for the app, such as secure login, data encryption, and access control.
-       -  Maintenance: The SRS document may assume maintenance requirements for the gym app, such as bug fixing, software updates, and technical support.
 
       **Assumptions:**
 
@@ -125,48 +91,48 @@ We intend to develop a mobile application as our desired solution, using Flutter
 
 ## 3. System Features
 
-   - ### **3.1 System Feature 1**
+   - ### **3.1 Admin Features**
 
-    The features that are available to the Admin are:  
+   The features that are available to the Admin are:  
 
-   - Admin can Add / Delete / Update Trainers and Customer details.  
+   -   Admin can Add / Delete / Update Trainers and Customer details.  
 
-   - Admin has all rights to view the details of users.  
+   -   Admin has all rights to view the details of users.  
 
-   - Admin can also view Transaction Details and update fitness membership packages with the trainers. 
+   -   Admin can also view Transaction Details and update fitness membership packages with the trainers. 
 
-   - Validate and verify trainers based upon their certification and feedback.
+   -   Validate and verify trainers based upon their certification and feedback.
 
-   - ### **3.2 System Feature 2**
+   - ### **3.2 User Features**
 
-    The features that are available to the users are  
+   The features that are available to the users are  
 
-   - Can view profile history and details  
+   -   Can view profile history and details  
 
-   - Makes inquiries and can take training membership.  
+   -   Makes inquiries and can take training membership.  
 
-   - Can schedule a fitness consultancy session. 
+   -   Can schedule a fitness consultancy session. 
 
-   - Can view their past fitness records. 
+   -   Can view their past fitness records. 
 
-   - Can create their self-fitness goals. 
+   -   Can create their self-fitness goals. 
 
-   - Can give feedback to the trainers. 
+   -   Can give feedback to the trainers. 
 
-   - Can provide feedback to the trainers and the fitness consultants 
-   - ### **3.3 System Feature 3**
+   -   Can provide feedback to the trainers and the fitness consultants 
+   - ### **3.3 Trainer Features**
 
-    The features that are available to the Trainer are:  
+   The features that are available to the Trainer are:  
 
-   - Trainer can view Member details who have subscribed to them.  
+   -   Trainer can view Member details who have subscribed to them.  
 
-   - Accept or reschedule consultancy sessions with the users. 
+   -   Accept or reschedule consultancy sessions with the users. 
 
-   - Provide their fitness work-out details to the users. 
+   -   Provide their fitness work-out details to the users. 
 
-   - Can charge fees from the subscribed user. 
+   -   Can charge fees from the subscribed user. 
 
-   - Trainers can also add blogs and videos about their activities. 
+   -   Trainers can also add blogs and videos about their activities. 
 
 ## 4. External Interface Requirements
    - ### **4.1 User Interface Requirements**
