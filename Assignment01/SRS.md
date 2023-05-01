@@ -40,7 +40,8 @@
       Conventions | Definition
       ----------- | -----------
       RAM         | Random Access Memory 
-      Members     | Person who is using the services of the gym and the mobile application 
+      Members     | Person who is using the services of the Fitbit application 
+      PC          | Personal Computer
       Stakeholders| Any person with an interest in the project who is not a developer 
       Trainers    | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the users to reach their fitness goals 
       Android     | A mobile devices operating system designed by Google Inc. 
@@ -55,21 +56,22 @@
          -  Testers: to have an exact list of the features and functions that must respond according to requirements and provided diagrams. 
          -  Users: to get familiar with the idea of the project and suggest other features that would make it even more functional. 
          -  Documentation writers: to know what features and in what way they must explain. What security technologies are required, how the system will response in each user’s action etc. 
-         -  Admin, Trainers and Customers: to know exactly what they must expect from the system, right inputs and outputs and response in error situations.
+         -  Admin, Trainers and Fitbit Members: to know exactly what they must expect from the system, right inputs and outputs and response in error situations.
 
    -  ### **1.4 Project Scope**
-      This system is aimed to give better out look to the user interfaces and to provide wellness information to the customers. This project is a mobile application where users can access the application while doing any physical activity. The main purpose of this system is to make users know their physical activity benefits and encourage them to work out more. This application can help users to track their fitness activities like how much calories they have burned, steps they have taken, distance they have walked, heart rate tracking etc. This application can help users who have joined gym recently in making their AI enabled workout schedule and help them in defining their fitness goal. It can also help in developing a diet and nutrition chart based on the current fitness condition of the user. The user can either be a consumer of fitness details or fitness consultant, a user can be fitness consultant only when its certification is verified. Once the user is verified as consultant, they can provide consultations to other users either for free or for a charge depending upon them and can share information with them. The consultation will be of either 30 minutes or 1 hour duration and users can rate the consultants based upon their liking. 
+      This system is aimed to give better out look to the user interfaces and to provide wellness information to the Fitbit Members. This project is a mobile application where users can access the application while doing any physical activity. The main purpose of this system is to make users know their physical activity benefits and encourage them to work out more. This application can help users to track their fitness activities like how much calories they have burned, steps they have taken, distance they have walked, heart rate tracking etc. This application can help users who have joined gym recently in making their AI enabled workout schedule and help them in defining their fitness goal. It can also help in developing a diet and nutrition chart based on the current fitness condition of the user. The user can either be a consumer of fitness details or fitness consultant, a user can be fitness consultant only when its certification is verified. Once the user is verified as consultant, they can provide consultations to other users either for free or for a charge depending upon them and can share information with them. The consultation will be of either 30 minutes or 1 hour duration and users can rate the consultants based upon their liking. 
 
    -  ### **1.5 References**
-
+         - Fitbit Help Center: https://help.fitbit.com/
+         - 
 
 
 ##  **2. Overall Description**
 
    - ### **2.1 Product Perspective**
-      This Mobile App is an independent system designed to handle various activities related to a gym, including exercises, generating customer reports, managing trainers, and handling administrative issues. The system stores all records in a centralized database, which can only be accessed by authorized users with unique IDs and specific permissions. To ensure data integrity, users are not permitted to modify records belonging to other customers. Additionally, the system offers data recovery options in case of any lost data.
+      This Mobile App is an independent system designed to handle various activities related to a gym, including exercises, generating member's report, managing trainers, and handling administrative issues. The system stores all records in a centralized database, which can only be accessed by the admin with unique IDs and specific permissions. To ensure data integrity, members are not permitted to modify records belonging to other Fitbit Members. Additionally, the system offers data recovery options in case of any lost data.
    -  ### **2.2 Product Features**
-      Fitbit is an app that provides fitness and wellness advice to its users through a set of exercise activities, nutritional diet charts, and even real-time health coaching. The app utilizes artificial intelligence, machine learning, and other technologies to provide personalized fitness programs to customers.
+      Fitbit is an app that provides fitness and wellness advice to its users through a set of exercise activities, nutritional diet charts, and even real-time health coaching. The app utilizes artificial intelligence, machine learning, and other technologies to provide personalized fitness programs to our members.
       The major feature of our app includes:
 
       -  Footstep & Activity Tracker
@@ -85,11 +87,11 @@
       Our app is available for download on both the Play Store for Android devices and the App Store for Apple devices. The app is designed to cater to three types of users: Trainers, Members, and Administrators.
 
          - Trainers:
-             These are the users who can create and share workout schedules and activities for our customers. To ensure quality service, Trainers are required to possess at least a basic certification as an instructor.
+             These are the people who can create and share workout schedules and activities for our Fitbit members. To ensure quality service, Trainers are required to possess at least a basic certification as an instructor.
          -  Members:
       These are the individuals who are interested in improving their lifestyle and seeking guidance from our verified trainers. These individuals can access a range of consultation services through our app to achieve their fitness goals.
          -  Administrators:
-      The role of an Administrator in our app is to have complete access to all users, including both Customers and Trainers, as well as AI-generated workouts. Administrators should possess a sound understanding of health and fitness to ensure that they can effectively verify a Trainer's profile.
+      The role of an Administrator in our app is to have complete access to all users, including both Members and Trainers, as well as AI-generated workouts. Administrators should possess a sound understanding of health and fitness to ensure that they can effectively verify a Trainer's profile.
 
 
  -  ### **2.4 Operating Environment**
