@@ -193,7 +193,7 @@ Fitbit will be used over smartphones:
       -  Integration with other apps: The app may integrate with other health and fitness apps, such as calorie trackers or meditation apps, to provide a comprehensive view of a members health and wellness.
       -  Accessibility: The app should be accessible to members with disabilities, with features such as high contrast mode or voice command options.
       -  Multilingual support: The app should support multiple languages to make it accessible to members around the world.
-
+      -  Membership Subscription Plan: The user interface shall allow users to view the membership subscription plans offered by the fitbit application and choose the plan that best fits their needs. The membership subscription plan page shall display the benefits and pricing of each plan. 
 
    -  ### **4.2 Hardware Interface Requirements**
    
@@ -207,9 +207,17 @@ Fitbit will be used over smartphones:
      
    -  ### **4.3 Software Interface Requirements**
       
-         -  Operating System: Windows 11 
-         -  Front End: Flutter, Dart Programming Language. 
-         -  Back End: MySQL, C++ 
+         - Operating system compatibility: The Fitbit app and device may require a specific operating system (OS) version to function properly. The app may be available for iOS, Android, and Windows devices, and may require a minimum OS version for each.
+
+         - API access: Fitbit may offer an API (application programming interface) that allows third-party developers to access and integrate Fitbit data into their own apps or services.
+
+         - SDK availability: Fitbit may offer a software development kit (SDK) that allows developers to create custom apps or features for Fitbit devices.
+         
+         - Data transfer protocols: Fitbit devices may use specific data transfer protocols to send data to the Fitbit app, such as Bluetooth or Wi-Fi.
+
+         - Data storage: Fitbit may store user data, including fitness activity, sleep data, and other metrics, on their servers or in the cloud. Users may be able to access and manage their data through the app or web interface.
+         
+         - Payment Gateway: The various membership plans integrate with a payment gateway to process user payments for subscription plans and other transactions. The payment gateway shall ensure secure and reliable payment processing and shall support different payment methods, including credit cards, PayPal, and other online payment systems. 
       
    -  ### **4.4 Communication Interface Requirements**
    
