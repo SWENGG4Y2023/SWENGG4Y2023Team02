@@ -40,7 +40,7 @@
       Conventions | Definition
       ----------- | -----------
       RAM         | Random Access Memory 
-      Members     | Person who is using the services of the Fitbit application 
+      Fitbit Members     | Person who is using the services of the Fitbit application 
       PC          | Personal Computer
       Stakeholders| Any person with an interest in the project who is not a developer 
       Trainers    | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the users to reach their fitness goals 
