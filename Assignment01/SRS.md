@@ -87,11 +87,11 @@ The major feature of our app includes:
    -  ### 2.3 **User Classes and Characteristics**
 Our app is available for download on both the Play Store for Android devices and the App Store for Apple devices. The app is designed to cater to three types of users: Trainers, Members, and Administrators.
 
--  Trainers
-Trainers are the users who can create and share workout schedules and activities for our customers. To ensure quality service, Trainers are required to possess at least a basic certification as an instructor.
--  Members
+   - Trainers:
+       These are the users who can create and share workout schedules and activities for our customers. To ensure quality service, Trainers are required to possess at least a basic certification as an instructor.
+   -  Members:
 These are the individuals who are interested in improving their lifestyle and seeking guidance from our verified trainers. These individuals can access a range of consultation services through our app to achieve their fitness goals.
--  Administrators
+   -  Administrators:
 The role of an Administrator in our app is to have complete access to all users, including both Customers and Trainers, as well as AI-generated workouts. Administrators should possess a sound understanding of health and fitness to ensure that they can effectively verify a Trainer's profile.
 
 
