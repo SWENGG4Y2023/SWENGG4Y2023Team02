@@ -140,11 +140,11 @@ Fitbit will be used over smartphones:
        -  Performance: It may include performance requirements for the  app, such as response time, scalability, and availability.
        -  User Base: It is assumed that the app is having enough pre-joined trainers who can deal with the newly joined fitbit members.
        -  Pre Knowledge :It is assumed that the administrator should have good knowledge of fitness and health so that they can validate the trainer’s profile.
-       -  Platform: It is assumed that the platform on which the gym app will run, such as iOS or Android.
-       -  User Interface: It is assumed that a user interface design for the gym app, including a color scheme, logo, and overall layout.
+       -  Platform: It is assumed that the platform on which the fitness app will run, such as iOS or Android.
+       -  User Interface: It is assumed that a user interface design for the fitness app, including a color scheme, logo, and overall layout.
        -  Integration: Integration with other third-party services, such as fitness tracking devices, payment gateways, and social media platforms is assumed.
        -  Security: The SRS document may assume security features for the app, such as secure login, data encryption, and access control.
-       -  Maintenance: The SRS document may assume maintenance requirements for the gym app, such as bug fixing, software updates, and technical support.
+       -  Maintenance: The SRS document may assume maintenance requirements for the fitness app, such as bug fixing, software updates, and technical support.
 
 
 
@@ -224,7 +224,7 @@ Fitbit will be used over smartphones:
 
    -  ### **5.1 Performance Requirements**
        
-       Performance requirements in a gym app refer to the specific expectations or goals related to how the app should function in terms of speed, responsiveness, and resource utilization. Some of the performance requirements that could be considered for a gym app are:
+       Performance requirements in a fitness app refer to the specific expectations or goals related to how the app should function in terms of speed, responsiveness, and resource utilization. Some of the performance requirements that could be considered for a health & fitness app are:
         
          - Response Time: The app should respond to user interactions (such as opening the app or navigating between screens) within a specified time frame to provide a smooth and seamless experience.
          - Scalability: The app should be designed and implemented to handle increased traffic and usage as more members download and use the app.
@@ -245,7 +245,7 @@ Fitbit will be used over smartphones:
 
    -  ### **5.3 Security Requirements**
 
-      This system is provided with authentication without which no member can pass. So only the legitimate members are allowed to use the application. If the legitimate member's share the authentication information, then the system is open to outsiders. Security requirements for a gym app refer to the measures that should be taken to ensure the protection of member data and prevent unauthorized access to the app or its features. Here are some key security requirements that should be considered for a gym app:
+      This system is provided with authentication without which no member can pass. So only the legitimate members are allowed to use the application. If the legitimate member's share the authentication information, then the system is open to outsiders. Security requirements for a health & fitness app refer to the measures that should be taken to ensure the protection of member data and prevent unauthorized access to the app or its features. Here are some key security requirements that should be considered for a fitness app:
         -  Secure data storage: applications should securely store member data on the device and ensure that sensitive data such as passwords, credit card details, or other personal information is encrypted and protected.
         -  Secure data transmission: Applications should use secure protocols like HTTPS to encrypt data transmitted between the mobile device / PC and server to prevent man-in-the-middle attacks.
         -  User authentication and authorization: Applications should provide secure user authentication and authorization mechanisms, such as two-factor authentication, to ensure that only authorized members can access sensitive data or functionality.
