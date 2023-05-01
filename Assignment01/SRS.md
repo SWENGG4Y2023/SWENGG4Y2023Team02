@@ -93,6 +93,7 @@ We intend to develop a mobile application as our desired solution, using Flutter
        -  Security: The SRS document may assume security features for the app, such as secure login, data encryption, and access control.
        -  Maintenance: The SRS document may assume maintenance requirements for the gym app, such as bug fixing, software updates, and technical support.
 
+
       **Assumptions:**
 
       **Dependencies:**
