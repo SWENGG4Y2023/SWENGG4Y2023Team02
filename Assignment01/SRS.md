@@ -37,16 +37,16 @@
       fitness activity tracking and more. Fitbit Health & Fitness App Service is powerful, flexible and easy to use and is designed and developed to deliver real conceivable benefits to fitness enthusiasts.
    - ### **1.2 Document Conventions**
       Fitbit makes use of the following conventions: 
-      Conventions | Definition
-      ----------- | -----------
-      RAM         | Random Access Memory 
+      Conventions        | Definition
+      -----------        | -----------
+      RAM                | Random Access Memory 
       Fitbit Members     | Person who is using the services of the Fitbit application 
-      PC          | Personal Computer
-      Stakeholders| Any person with an interest in the project who is not a developer 
-      Trainers    | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the users to reach their fitness goals 
-      Android     | A mobile devices operating system designed by Google Inc. 
-      iOS         | An operating system created and developed by Apple Inc. 
-      GHz         | Gigahertz 
+      PC                 | Personal Computer
+      Stakeholders       | Any person with an interest in the project who is not a developer 
+      Trainers           | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the users to reach their fitness goals 
+      Android            | A mobile devices operating system designed by Google Inc. 
+      iOS                | An operating system created and developed by Apple Inc. 
+      GHz                | Gigahertz 
 
 
 
