@@ -212,8 +212,41 @@ Community forums: Fitbit also maintains community forums where users can ask que
 ## **5. Nonfunctional Requirements**
 
    -  ### **5.1 Performance Requirements**
+       
+       Performance requirements in a gym app refer to the specific expectations or goals related to how the app should function in terms of speed, responsiveness, and resource utilization. Some of the performance requirements that could be considered for a gym app are:
+        
+         - Response Time: The app should respond to user interactions (such as opening the app or navigating between screens) within a specified time frame to provide a smooth and seamless experience.
+         - Scalability: The app should be designed and implemented to handle increased traffic and usage as more users download and use the app.
+         - Availability: The app should be available to users at all times without any downtime or interruptions in service.
+         - Resource Utilization: The app should be designed to use the minimum amount of system resources such as CPU, memory, and battery power to ensure optimal performance and reduce device load.
+         - User Concurrent Access: The app should be able to handle multiple users accessing the app simultaneously without slowing down or crashing.
+         
    -  ### **5.2 Safety Requirements**
+
+         - Secure user data: Fitbit should protect the privacy of user data by securely storing and transmitting personal information.
+         - User consent: Fitbit should clearly inform users about how their data will be used and obtain their consent before collecting any data.
+         - Safe user interface: Fitbit should provide a safe and secure user interface that is free from vulnerabilities that could be exploited by attackers.
+         - Secure network communication: Fitbit should encrypt data transmitted over the network to prevent unauthorized access.
+         - Appropriate use of permissions: Fitbit should only request necessary permissions and clearly explain why each permission is needed.
+         - Data retention policy: Fitbit should have a clear policy on how long user data is retained and how it is deleted when no longer needed.
+         - Regular security updates: Fitbit should regularly release security updates to patch any known vulnerabilities.
+
+
    -  ### **5.3 Security Requirements**
+
+      This system is provided with authentication without which no user can pass. So only the legitimate users are allowed to use the application. If the legitimate user’s share the authentication information, then the system is open to outsiders. Security requirements for a gym app refer to the measures that should be taken to ensure the protection of user data and prevent unauthorized access to the app or its features. Here are some key security requirements that should be considered for a gym app:
+        -  Secure data storage: Mobile applications should securely store user data on the device and ensure that sensitive data such as passwords, credit card details, or other personal information is encrypted and protected.
+        -  Secure data transmission: Applications should use secure protocols like HTTPS to encrypt data transmitted between the mobile device and server to prevent man-in-the-middle attacks.
+        -  User authentication and authorization: Applications should provide secure user authentication and authorization mechanisms, such as two-factor authentication, to ensure that only authorized users can access sensitive data or functionality.
+        -  Access control: Applications should restrict access to sensitive data or features to authorized users only and limit the permissions granted to each user based on their role or level of access.
+        
    -  ### **5.4 Software Quality Attributes**
 
-## **6. Other Requirements**
+        -  Reliability: Good validations of user inputs will be done to avoid incorrect storage of records. 
+        -  Maintainability: During the maintenance stage, SRS document can be referred for any validations. 
+        -  Portability: This system can be easily viewed in any mobile OS above the mentioned software version.
+        -  Flexibility: The system keeps on updating the data according to the fitness activity that takes place. 
+        -  Timeless: The system carries out all the operations with consumption of very less time. 
+        -  Security: Security of the system is maintained by giving access to only authenticated user id and password.
+
+
