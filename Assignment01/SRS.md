@@ -5,7 +5,7 @@
    - [1.1 Purpose](#11-purpose)
    - [1.2 Document Conventions](#12-document-conventions)
    - [1.3 Intended Audience and Reading Suggestions](#13-intended-audience-and-reading-suggestions)
-   - [1.4 Intended Use](#14-project-scope)
+   - [1.4 Project Scope](#14-project-scope)
    - [1.5 Scope](#15-references)
 - [2. Overall Description](#2-overall-description)
    -  [2.1 Product Perspective](#21-product-perspective)
@@ -31,12 +31,35 @@
 ## 1. Introduction
 
    - ### **1.1 Purpose**
-
+      Fitbit Health & Fitness App provides the benefits of streamlined operations, enhanced
+      fitness activity tracking and more. Fitbit Health & Fitness App Service is powerful, flexible and easy to use and is designed and developed to deliver real conceivable benefits to fitness enthusiasts.
    - ### **1.2 Document Conventions**
+      Fitbit makes use of the following conventions: 
+      Conventions | Definition
+      ----------- | -----------
+      RAM         | Random Access Memory 
+      Members     | Person who is using the services of the gym and the mobile application 
+      Stakeholders| Any person with an interest in the project who is not a developer 
+      Trainers    | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the users to reach their fitness goals 
+      Android     | A mobile devices operating system designed by Google Inc. 
+      iOS         | An operating system created and developed by Apple Inc. 
+      GHz         | Gigahertz 
+
+
 
    -  ### **1.3 Intended Audience and Reading Suggestions**
+      Developers: to be sure they are developing the right project that fulfils requirements provided in this document. 
+
+      Testers: to have an exact list of the features and functions that must respond according to requirements and provided diagrams. 
+
+      Users: to get familiar with the idea of the project and suggest other features that would make it even more functional. 
+
+      Documentation writers: to know what features and in what way they must explain. What security technologies are required, how the system will response in           each user’s action etc. 
+
+      Admin, Trainers and Customers: to know exactly what they must expect from the system, right inputs and outputs and response in error situations.
 
    -  ### **1.4 Project Scope**
+      This system is aimed to give better out look to the user interfaces and to provide wellness information to the customers. This project is a mobile application where users can access the application while doing any physical activity. The main purpose of this system is to make users know their physical activity benefits and encourage them to work out more. This application can help users to track their fitness activities like how much calories they have burned, steps they have taken, distance they have walked, heart rate tracking etc. This application can help users who have joined gym recently in making their AI enabled workout schedule and help them in defining their fitness goal. It can also help in developing a diet and nutrition chart based on the current fitness condition of the user. The user can either be a consumer of fitness details or fitness consultant, a user can be fitness consultant only when its certification is verified. Once the user is verified as consultant, they can provide consultations to other users either for free or for a charge depending upon them and can share information with them. The consultation will be of either 30 minutes or 1 hour duration and users can rate the consultants based upon their liking. 
 
    -  ### **1.5 References**
 
