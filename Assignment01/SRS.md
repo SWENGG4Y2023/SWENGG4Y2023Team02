@@ -133,7 +133,7 @@ Fitbit will be used over smartphones:
 
       - In-app help: The Fitbit app also includes in-app help, which can be accessed from within the app itself to provide users with real-time guidance on how to use specific features.
 
-Community forums: Fitbit also maintains community forums where users can ask questions, share tips and advice, and connect with other Fitbit members.
+      - Community forums: Fitbit also maintains community forums where users can ask questions, share tips and advice, and connect with other Fitbit members.
 
    -  ### **2.7 Assumptions and Dependencies**
     
