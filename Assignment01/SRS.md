@@ -16,7 +16,9 @@
    -  [2.6 User Documentation](#26-user-documentation)
    -  [2.7 Assumptions and Dependencies](#27-assumptions-and-dependencies)
 -  [3. System Features](#3-system-features)
-   -  [3.1 Functional Requirements](#31-functional-requirements)
+   -  [3.1 System Feature 1](#31-system-feature-1)
+   -  [3.2 System Feature 2](#32-system-feature-2)
+   -  [3.2 System Feature 3](#33-system-feature-3)
 -  [4. External Interface Requirements](#4-external-interface-requirements)
    -  [4.1 User Interface Requirements](#41-user-interface-requirements)
    -  [4.2 Hardware Interface Requirements](#42-hardware-interface-requirements)
@@ -91,7 +93,7 @@
 
    - ### **3.1 System Feature 1**
 
-   The features that are available to the Admin are:  
+    The features that are available to the Admin are:  
 
    - Admin can Add / Delete / Update Trainers and Customer details.  
 
@@ -103,7 +105,7 @@
 
    - ### **3.2 System Feature 2**
 
-   The features that are available to the users are  
+    The features that are available to the users are  
 
    - Can view profile history and details  
 
@@ -120,7 +122,7 @@
    - Can provide feedback to the trainers and the fitness consultants 
    - ### **3.3 System Feature 3**
 
-   The features that are available to the Trainer are:  
+    The features that are available to the Trainer are:  
 
    - Trainer can view Member details who have subscribed to them.  
 
