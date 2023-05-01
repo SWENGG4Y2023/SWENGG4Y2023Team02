@@ -97,9 +97,10 @@ The role of an Administrator in our app is to have complete access to all users,
 
  -  ### **2.4 Operating Environment**
 Fitbit will be used over smartphones:
-     -  Android: Lollipop 5.1.0 or above
-     -  IOS: 12.0.0 or above
-     -  RAM: 512MB or above
+           
+           Android: Lollipop 5.1.0 or above
+           IOS: 12.0.0 or above
+           RAM: 512MB or above
 
 
  -  ### **2.5 Design and Implementation Constraints**
