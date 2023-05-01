@@ -167,15 +167,17 @@ Community forums: Fitbit also maintains community forums where users can ask que
 
 ## 4. External Interface Requirements
    - ### **4.1 User Interface Requirements**
-  
-   The user interface is designed in Flutter. The developer will have to study the designing of the product. The user of the product will get very user-friendly mobile features which will be very easy to work with. Our mobile application works for both Android and iOS. 
-         **-  Easy navigation:** The Fitbit app should have an intuitive interface that is easy to navigate, with clear labeling of features and options.
-         **-  Customization:** The user interface should allow users to customize their experience, such as choosing which metrics to track or setting personal goals.
-         **-  Visual feedback:** The app should provide clear visual feedback, such as charts and graphs, to help users track their progress and understand their fitness data.
-         **-  Notifications:** The app should provide notifications, such as reminders to move or congratulatory messages for hitting goals, to help motivate and engage users.
-         **-  Integration with other apps:** The app may integrate with other health and fitness apps, such as calorie trackers or meditation apps, to provide a comprehensive view of a user's health and wellness.
-         **-Accessibility:** The app should be accessible to users with disabilities, with features such as high contrast mode or voice command options.
-         **-Multilingual support:** The app should support multiple languages to make it accessible to users around the world.
+   
+      Fitbit is designed to provide a user-friendly and engaging experience for users to access and manage their fitness data. The app is customizable, easy to navigate, and visually appealing, with features such as notifications and integrations with other apps to keep users motivated and engaged. The app is also accessible to users with disabilities and support multiple languages.
+
+      - Easy navigation:** The Fitbit app should have an intuitive interface that is easy to navigate, with clear labeling of features and options.
+      - Customization:** The user interface should allow users to customize their experience, such as choosing which metrics to track or setting personal goals.
+      -  Visual feedback:** The app should provide clear visual feedback, such as charts and graphs, to help users track their progress and understand their fitness data.
+      -  Notifications:** The app should provide notifications, such as reminders to move or congratulatory messages for hitting goals, to help motivate and engage users.
+      -  Integration with other apps:** The app may integrate with other health and fitness apps, such as calorie trackers or meditation apps, to provide a comprehensive view of a user's health and wellness.
+      -  Accessibility:** The app should be accessible to users with disabilities, with features such as high contrast mode or voice command options.
+      -  Multilingual support:** The app should support multiple languages to make it accessible to users around the world.
+
 
    -  ### **4.2 Hardware Interface Requirements**
    
