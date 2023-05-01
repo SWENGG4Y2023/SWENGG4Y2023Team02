@@ -106,6 +106,17 @@ Fitbit will be used over smartphones:
 We intend to develop a mobile application as our desired solution, using Flutter for the user interface and MySQL database for data storage and management. Additionally, we will be utilizing Firebase to track daily customer interactions and to provide notifications to both our members and trainers.
 
    -  ### **2.6 User Documentation**
+   User documentation for Fitbit includes a range of materials that are designed to help users understand how to use and get the most out of their Fitbit device and app. Some of them are as follows:
+
+    -   Quick start guide: This document provides a brief overview of the Fitbit device and how to set it up for use.
+
+    -   User manual: The user manual provides more detailed instructions for using the Fitbit device and app, including how to track activity, set goals, and use advanced features.
+
+    -   Online help center: Fitbit provides an online help center that includes articles and tutorials on how to use specific features of the app and device, as well as troubleshooting tips and frequently asked questions.
+
+    -   In-app help: The Fitbit app also includes in-app help, which can be accessed from within the app itself to provide users with real-time guidance on how to use specific features.
+
+Community forums: Fitbit also maintains community forums where users can ask questions, share tips and advice, and connect with other Fitbit users.
 
    -  ### **2.7 Assumptions and Dependencies**
     
