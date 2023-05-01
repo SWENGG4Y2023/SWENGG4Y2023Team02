@@ -80,3 +80,8 @@ The Fitbit app should have a user-friendly interface and design, including:
 -   Easy-to-use tracking and monitoring tools
 -   Consistent design across all platforms (e.g., web, mobile)
 
+5.  **Security Requirements:**
+
+-   The user's personal and health information should be kept confidential and secure.
+-   The application should use encryption and other security measures to protect user data from unauthorized access or breaches.
+
