@@ -1,4 +1,4 @@
-# Team02 🧘‍♂️
+# Team02 🏃🧘‍♂️
 BITS ID     | Name          | GitHub ID
 ----------  | -----         | --------
 2021hs70005 | Kartik Kapoor | kartikapoor12
