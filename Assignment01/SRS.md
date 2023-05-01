@@ -119,11 +119,6 @@ We intend to develop a mobile application as our desired solution, using Flutter
        -  Maintenance: The SRS document may assume maintenance requirements for the gym app, such as bug fixing, software updates, and technical support.
 
 
-      **Assumptions:**
-
-      **Dependencies:**
-
-
 
 ## 3. System Features
 
