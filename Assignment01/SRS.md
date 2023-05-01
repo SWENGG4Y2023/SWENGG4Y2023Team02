@@ -78,7 +78,7 @@
 ##  **2. Overall Description**
 
    - ### **2.1 Product Perspective**
-      This Mobile App is an independent system designed to handle various activities related to a gym, including exercises, generating member's report, managing trainers, and handling administrative issues. The system stores all records in a centralized database, which can only be accessed by the admin with unique IDs and specific permissions. To ensure data integrity, members are not permitted to modify records belonging to other Fitbit Members. Additionally, the system offers data recovery options in case of any lost data.
+      This Fitbit App is an independent system designed to handle various activities related to a gym, including exercises, generating member's report, managing trainers, and handling administrative issues. The system stores all records in a centralized database, which can only be accessed by the admin with unique IDs and specific permissions. To ensure data integrity, members are not permitted to modify records belonging to other Fitbit Members. Additionally, the system offers data recovery options in case of any lost data.
    -  ### **2.2 Product Features**
       Fitbit is an app that provides fitness and wellness advice to its users through a set of exercise activities, nutritional diet charts, and even real-time health coaching. The app utilizes artificial intelligence, machine learning, and other technologies to provide personalized fitness programs to our fitbit members.
       The major feature of our app includes:
