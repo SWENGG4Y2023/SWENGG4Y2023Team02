@@ -1,9 +1,9 @@
 # Team02
-BITS ID     | Name
-----------  | -----
-2021hs70005 | Kartik Kapoor
-2021hs70013 | Ayush Behl
-2021hs70014 | Navya Khurana
+BITS ID     | Name          | GitHub ID
+----------  | -----         | --------
+2021hs70005 | Kartik Kapoor | kartikapoor12
+2021hs70013 | Ayush Behl    | ayushbehl
+2021hs70014 | Navya Khurana | navyakhurana
 
 <img width="1000" alt="Fitbit" src="https://user-images.githubusercontent.com/64686397/235408033-e30a6f50-9d36-46e8-8853-345c90e18c2f.png">
 
