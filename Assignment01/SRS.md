@@ -104,8 +104,14 @@ Fitbit will be used over smartphones:
 
 
  -  ### **2.5 Design and Implementation Constraints**
-We intend to develop a mobile application as our desired solution, using Flutter for the user interface and MySQL database for data storage and management. Additionally, we will be utilizing Firebase to track daily customer interactions and to provide notifications to both our members and trainers.
-
+These are the limitations and guidelines that need to be considered during the development of the Fitbit application. Some of the design and implementation constraints for the Fitbit application are:
+ -  Platform constraints: The Fitbit application should be designed and implemented to be compatible with a variety of platforms, including Android, iOS, and web-based platforms.
+ -  Data security constraints: The application should be designed with a robust security system that protects user data and personal information.
+ -  Performance constraints: The application should be designed and implemented to provide efficient and fast performance, with a focus on reducing loading times and minimizing resource usage.
+ -  User interface constraints: The application should be designed with a user-friendly interface that is easy to navigate and understand.
+ -  Device compatibility constraints: The application should be designed to work on a range of devices, including smartphones, tablets, and wearable devices.
+ -  API and integration constraints: The application should be designed and implemented to integrate with other fitness and health-related applications and APIs.
+ -  Localization constraints: The application should be designed to support multiple languages and regions, with a focus on providing a localized experience for users in different countries and regions.
    -  ### **2.6 User Documentation**
    User documentation for Fitbit includes a range of materials that are designed to help users understand how to use and get the most out of their Fitbit device and app. Some of them are as follows:
 
