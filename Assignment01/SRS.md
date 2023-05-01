@@ -154,7 +154,7 @@ Fitbit will be used over smartphones:
 
       The features that are available to the Admin are:  
 
-      -   Admin can Add / Delete / Update Trainers and Customer details.  
+      -   Admin can Add / Delete / Update Trainers and Fitbit member details.  
       -   Admin has all rights to view the details of fitbit members.  
       -   Admin can also view Transaction Details and update fitness membership packages with the trainers. 
       -   Validate and verify trainers based upon their certification and feedback.
