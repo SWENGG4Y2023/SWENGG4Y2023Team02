@@ -29,7 +29,7 @@
    -  [5.2 Safety Requirements](#52-safety-requirements)
    -  [5.3 Security Requirements](#53-security-requirements)
    -  [5.4 Software Quality Attributes](#54-software-quality-attributes)
--  [6. Other Requirements](#6-other-requirements)
+
 ## 1. Introduction
 
    - ### **1.1 Purpose**
