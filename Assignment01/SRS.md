@@ -1,4 +1,4 @@
-# Software Requirement Specification for Fitbit
+# Software Requirement Specification
 
 ## Table of Contents
 -  [1. Introduction](#1-introduction)
@@ -16,9 +16,9 @@
    -  [2.6 User Documentation](#26-user-documentation)
    -  [2.7 Assumptions and Dependencies](#27-assumptions-and-dependencies)
 -  [3. System Features](#3-system-features)
-   -  [3.1 System Feature 1](#31-system-feature-1)
-   -  [3.2 System Feature 2](#32-system-feature-2)
-   -  [3.2 System Feature 3](#33-system-feature-3)
+   -  [3.1 Admin Features](#31-admin-features)
+   -  [3.2 User Features](#32-user-features)
+   -  [3.2 Trainer Features](#33-trainer-features)
 -  [4. External Interface Requirements](#4-external-interface-requirements)
    -  [4.1 User Interface Requirements](#41-user-interface-requirements)
    -  [4.2 Hardware Interface Requirements](#42-hardware-interface-requirements)
