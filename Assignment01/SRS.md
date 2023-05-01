@@ -43,7 +43,7 @@
       Fitbit Members     | Person who is using the services of the Fitbit application 
       PC                 | Personal Computer
       Stakeholders       | Any person with an interest in the project who is not a developer 
-      Trainers           | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the users to reach their fitness goals 
+      Trainers           | A person who teaches fitness skills to people, prepares them for workout activities, and motivates the fitbit members to reach their fitness goals 
       Android            | A mobile devices operating system designed by Google Inc. 
       iOS                | An operating system created and developed by Apple Inc. 
       GHz                | Gigahertz 
@@ -54,7 +54,7 @@
          
          -  Developers: to be sure they are developing the right project that fulfils requirements provided in this document. 
          -  Testers: to have an exact list of the features and functions that must respond according to requirements and provided diagrams. 
-         -  Users: to get familiar with the idea of the project and suggest other features that would make it even more functional. 
+         -  Test Members: to get familiar with the idea of the project and suggest other features that would make it even more functional. 
          -  Documentation writers: to know what features and in what way they must explain. What security technologies are required, how the system will response in each user’s action etc. 
          -  Admin, Trainers and Fitbit Members: to know exactly what they must expect from the system, right inputs and outputs and response in error situations.
 
