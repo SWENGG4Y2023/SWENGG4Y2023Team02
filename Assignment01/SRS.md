@@ -1,4 +1,4 @@
-# Software Requirement Specification
+# Software Requirement Specification for Fitbit
 
 ## Table of Contents
 -  [1. Introduction](#1-introduction)
