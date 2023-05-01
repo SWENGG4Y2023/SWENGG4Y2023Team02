@@ -187,7 +187,17 @@ Community forums: Fitbit also maintains community forums where users can ask que
       
    -  ### **4.4 Communication Interface Requirements**
    
-      Communication is done through internet and intranet mail or Telephones and Messaging 
+      - Bluetooth connectivity: Fitbit devices use Bluetooth to connect to a user's mobile device, allowing for data to be synced between the device and the Fitbit app.
+
+      - Wi-Fi connectivity: Fitbit devices may also be able to connect to Wi-Fi networks for more seamless data syncing and to access additional features such as music streaming and app updates.
+
+      - USB connectivity: Fitbit devices may also be able to connect to a user's computer via USB cable to update firmware or transfer data.
+
+      - Mobile app interface: The Fitbit app provides a user-friendly interface for users to access and manage their fitness data, set goals, and track progress. The app may also offer social features, guided programs, and third-party integrations.
+
+      - Web interface: Fitbit also provides a web interface that allows users to access and manage their data, as well as to purchase new devices and accessories.
+
+      - Notifications: Fitbit devices and app may use notifications, such as push notifications, to communicate with users about activity progress, reminders, and other updates.
       
 ## **5. Nonfunctional Requirements**
 
