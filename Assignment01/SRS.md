@@ -124,7 +124,7 @@ Fitbit will be used over smartphones:
 
       - In-app help: The Fitbit app also includes in-app help, which can be accessed from within the app itself to provide users with real-time guidance on how to use specific features.
 
-Community forums: Fitbit also maintains community forums where users can ask questions, share tips and advice, and connect with other Fitbit users.
+Community forums: Fitbit also maintains community forums where users can ask questions, share tips and advice, and connect with other Fitbit members.
 
    -  ### **2.7 Assumptions and Dependencies**
     
@@ -146,13 +146,13 @@ Community forums: Fitbit also maintains community forums where users can ask que
       The features that are available to the Admin are:  
 
       -   Admin can Add / Delete / Update Trainers and Customer details.  
-      -   Admin has all rights to view the details of users.  
+      -   Admin has all rights to view the details of fitbit members.  
       -   Admin can also view Transaction Details and update fitness membership packages with the trainers. 
       -   Validate and verify trainers based upon their certification and feedback.
 
    - ### **3.2 User Features**
 
-      The features that are available to the users are  
+      The features that are available to the members are  
 
       -   Can view profile history and details  
       -   Makes inquiries and can take training membership.  
@@ -167,23 +167,23 @@ Community forums: Fitbit also maintains community forums where users can ask que
       The features that are available to the Trainer are:  
 
       -   Trainer can view Member details who have subscribed to them.  
-      -   Accept or reschedule consultancy sessions with the users. 
-      -   Provide their fitness work-out details to the users. 
-      -   Can charge fees from the subscribed user. 
+      -   Accept or reschedule consultancy sessions with the members. 
+      -   Provide their fitness work-out details to the members. 
+      -   Can charge fees from the subscribed members. 
       -   Trainers can also add blogs and videos about their activities. 
 
 ## 4. External Interface Requirements
    - ### **4.1 User Interface Requirements**
    
-      Fitbit is designed to provide a user-friendly and engaging experience for users to access and manage their fitness data. The app is customizable, easy to navigate, and visually appealing, with features such as notifications and integrations with other apps to keep users motivated and engaged. The app is also accessible to users with disabilities and support multiple languages.
+      Fitbit is designed to provide a user-friendly and engaging experience for members to access and manage their fitness data. The app is customizable, easy to navigate, and visually appealing, with features such as notifications and integrations with other apps to keep members motivated and engaged. The app is also accessible to members with disabilities and support multiple languages.
 
       - Easy navigation:** The Fitbit app should have an intuitive interface that is easy to navigate, with clear labeling of features and options.
-      - Customization:** The user interface should allow users to customize their experience, such as choosing which metrics to track or setting personal goals.
-      -  Visual feedback:** The app should provide clear visual feedback, such as charts and graphs, to help users track their progress and understand their fitness data.
-      -  Notifications:** The app should provide notifications, such as reminders to move or congratulatory messages for hitting goals, to help motivate and engage users.
-      -  Integration with other apps:** The app may integrate with other health and fitness apps, such as calorie trackers or meditation apps, to provide a comprehensive view of a user's health and wellness.
-      -  Accessibility:** The app should be accessible to users with disabilities, with features such as high contrast mode or voice command options.
-      -  Multilingual support:** The app should support multiple languages to make it accessible to users around the world.
+      - Customization:** The user interface should allow members to customize their experience, such as choosing which metrics to track or setting personal goals.
+      -  Visual feedback:** The app should provide clear visual feedback, such as charts and graphs, to help members track their progress and understand their fitness data.
+      -  Notifications:** The app should provide notifications, such as reminders to move or congratulatory messages for hitting goals, to help motivate and engage members.
+      -  Integration with other apps:** The app may integrate with other health and fitness apps, such as calorie trackers or meditation apps, to provide a comprehensive view of a members health and wellness.
+      -  Accessibility:** The app should be accessible to members with disabilities, with features such as high contrast mode or voice command options.
+      -  Multilingual support:** The app should support multiple languages to make it accessible to members around the world.
 
 
    -  ### **4.2 Hardware Interface Requirements**
@@ -204,12 +204,12 @@ Community forums: Fitbit also maintains community forums where users can ask que
       
    -  ### **4.4 Communication Interface Requirements**
    
-         - Bluetooth connectivity: Fitbit devices use Bluetooth to connect to a user's mobile device, allowing for data to be synced between the device and the Fitbit app.
+         - Bluetooth connectivity: Fitbit devices use Bluetooth to connect to a members mobile device, allowing for data to be synced between the device and the Fitbit app.
          - Wi-Fi connectivity: Fitbit devices may also be able to connect to Wi-Fi networks for more seamless data syncing and to access additional features such as music streaming and app updates.
-         - USB connectivity: Fitbit devices may also be able to connect to a user's computer via USB cable to update firmware or transfer data.
-         - Mobile app interface: The Fitbit app provides a user-friendly interface for users to access and manage their fitness data, set goals, and track progress. The app may also offer social features, guided programs, and third-party integrations.
-         - Web interface: Fitbit also provides a web interface that allows users to access and manage their data, as well as to purchase new devices and accessories.
-         - Notifications: Fitbit devices and app may use notifications, such as push notifications, to communicate with users about activity progress, reminders, and other updates.
+         - USB connectivity: Fitbit devices may also be able to connect to a members computer via USB cable to update firmware or transfer data.
+         - Mobile app interface: The Fitbit app provides a user-friendly interface for members to access and manage their fitness data, set goals, and track progress. The app may also offer social features, guided programs, and third-party integrations.
+         - Web interface: Fitbit also provides a web interface that allows members to access and manage their data, as well as to purchase new devices and accessories.
+         - Notifications: Fitbit devices and app may use notifications, such as push notifications, to communicate with members about activity progress, reminders, and other updates.
       
 ## **5. Nonfunctional Requirements**
 
@@ -218,37 +218,37 @@ Community forums: Fitbit also maintains community forums where users can ask que
        Performance requirements in a gym app refer to the specific expectations or goals related to how the app should function in terms of speed, responsiveness, and resource utilization. Some of the performance requirements that could be considered for a gym app are:
         
          - Response Time: The app should respond to user interactions (such as opening the app or navigating between screens) within a specified time frame to provide a smooth and seamless experience.
-         - Scalability: The app should be designed and implemented to handle increased traffic and usage as more users download and use the app.
-         - Availability: The app should be available to users at all times without any downtime or interruptions in service.
+         - Scalability: The app should be designed and implemented to handle increased traffic and usage as more members download and use the app.
+         - Availability: The app should be available to members at all times without any downtime or interruptions in service.
          - Resource Utilization: The app should be designed to use the minimum amount of system resources such as CPU, memory, and battery power to ensure optimal performance and reduce device load.
-         - User Concurrent Access: The app should be able to handle multiple users accessing the app simultaneously without slowing down or crashing.
+         - User Concurrent Access: The app should be able to handle multiple members accessing the app simultaneously without slowing down or crashing.
          
    -  ### **5.2 Safety Requirements**
 
-         - Secure user data: Fitbit should protect the privacy of user data by securely storing and transmitting personal information.
-         - User consent: Fitbit should clearly inform users about how their data will be used and obtain their consent before collecting any data.
+         - Secure user data: Fitbit should protect the privacy of member's data by securely storing and transmitting personal information.
+         - User consent: Fitbit should clearly inform members about how their data will be used and obtain their consent before collecting any data.
          - Safe user interface: Fitbit should provide a safe and secure user interface that is free from vulnerabilities that could be exploited by attackers.
          - Secure network communication: Fitbit should encrypt data transmitted over the network to prevent unauthorized access.
          - Appropriate use of permissions: Fitbit should only request necessary permissions and clearly explain why each permission is needed.
-         - Data retention policy: Fitbit should have a clear policy on how long user data is retained and how it is deleted when no longer needed.
+         - Data retention policy: Fitbit should have a clear policy on how long member data is retained and how it is deleted when no longer needed.
          - Regular security updates: Fitbit should regularly release security updates to patch any known vulnerabilities.
 
 
    -  ### **5.3 Security Requirements**
 
-      This system is provided with authentication without which no user can pass. So only the legitimate users are allowed to use the application. If the legitimate user’s share the authentication information, then the system is open to outsiders. Security requirements for a gym app refer to the measures that should be taken to ensure the protection of user data and prevent unauthorized access to the app or its features. Here are some key security requirements that should be considered for a gym app:
-        -  Secure data storage: Mobile applications should securely store user data on the device and ensure that sensitive data such as passwords, credit card details, or other personal information is encrypted and protected.
+      This system is provided with authentication without which no member can pass. So only the legitimate members are allowed to use the application. If the legitimate member's share the authentication information, then the system is open to outsiders. Security requirements for a gym app refer to the measures that should be taken to ensure the protection of member data and prevent unauthorized access to the app or its features. Here are some key security requirements that should be considered for a gym app:
+        -  Secure data storage: Mobile applications should securely store member data on the device and ensure that sensitive data such as passwords, credit card details, or other personal information is encrypted and protected.
         -  Secure data transmission: Applications should use secure protocols like HTTPS to encrypt data transmitted between the mobile device and server to prevent man-in-the-middle attacks.
-        -  User authentication and authorization: Applications should provide secure user authentication and authorization mechanisms, such as two-factor authentication, to ensure that only authorized users can access sensitive data or functionality.
-        -  Access control: Applications should restrict access to sensitive data or features to authorized users only and limit the permissions granted to each user based on their role or level of access.
+        -  User authentication and authorization: Applications should provide secure user authentication and authorization mechanisms, such as two-factor authentication, to ensure that only authorized members can access sensitive data or functionality.
+        -  Access control: Applications should restrict access to sensitive data or features to authorized members only and limit the permissions granted to each member based on their role or level of access.
         
    -  ### **5.4 Software Quality Attributes**
 
-        -  Reliability: Good validations of user inputs will be done to avoid incorrect storage of records. 
+        -  Reliability: Good validations of members inputs will be done to avoid incorrect storage of records. 
         -  Maintainability: During the maintenance stage, SRS document can be referred for any validations. 
         -  Portability: This system can be easily viewed in any mobile OS above the mentioned software version.
         -  Flexibility: The system keeps on updating the data according to the fitness activity that takes place. 
         -  Timeless: The system carries out all the operations with consumption of very less time. 
-        -  Security: Security of the system is maintained by giving access to only authenticated user id and password.
+        -  Security: Security of the system is maintained by giving access to only authenticated member id and password.
 
 
