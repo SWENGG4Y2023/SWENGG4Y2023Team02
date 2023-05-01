@@ -63,7 +63,7 @@
          -  Admin, Trainers and Fitbit Members: to know exactly what they must expect from the system, right inputs and outputs and response in error situations.
 
    -  ### **1.4 Project Scope**
-      This system is aimed to give better out look to the user interfaces and to provide wellness information to the Fitbit Members. This project is a mobile application where users can access the application while doing any physical activity. The main purpose of this system is to make users know their physical activity benefits and encourage them to work out more. This application can help users to track their fitness activities like how much calories they have burned, steps they have taken, distance they have walked, heart rate tracking etc. This application can help users who have joined gym recently in making their AI enabled workout schedule and help them in defining their fitness goal. It can also help in developing a diet and nutrition chart based on the current fitness condition of the user. The user can either be a consumer of fitness details or fitness consultant, a user can be fitness consultant only when its certification is verified. Once the user is verified as consultant, they can provide consultations to other users either for free or for a charge depending upon them and can share information with them. The consultation will be of either 30 minutes or 1 hour duration and users can rate the consultants based upon their liking. 
+      This system is aimed to give better out look to the user interfaces and to provide wellness information to the Fitbit Members. This project is a mobile and a web application where users can access the application while doing any physical activity. The main purpose of this system is to make users know their physical activity benefits and encourage them to work out more. This application can help users to track their fitness activities like how much calories they have burned, steps they have taken, distance they have walked, heart rate tracking etc. This application can help users who have joined gym recently in making their AI enabled workout schedule and help them in defining their fitness goal. It can also help in developing a diet and nutrition chart based on the current fitness condition of the user. The user can either be a consumer of fitness details or fitness consultant, a user can be fitness consultant only when its certification is verified. Once the user is verified as consultant, they can provide consultations to other users either for free or for a charge depending upon them and can share information with them. The consultation will be of either 30 minutes or 1 hour duration and users can rate the consultants based upon their liking. 
 
    -  ### **1.5 References**
          - Fitbit Help Center: https://help.fitbit.com/
@@ -246,8 +246,8 @@ Fitbit will be used over smartphones:
    -  ### **5.3 Security Requirements**
 
       This system is provided with authentication without which no member can pass. So only the legitimate members are allowed to use the application. If the legitimate member's share the authentication information, then the system is open to outsiders. Security requirements for a gym app refer to the measures that should be taken to ensure the protection of member data and prevent unauthorized access to the app or its features. Here are some key security requirements that should be considered for a gym app:
-        -  Secure data storage: Mobile applications should securely store member data on the device and ensure that sensitive data such as passwords, credit card details, or other personal information is encrypted and protected.
-        -  Secure data transmission: Applications should use secure protocols like HTTPS to encrypt data transmitted between the mobile device and server to prevent man-in-the-middle attacks.
+        -  Secure data storage: applications should securely store member data on the device and ensure that sensitive data such as passwords, credit card details, or other personal information is encrypted and protected.
+        -  Secure data transmission: Applications should use secure protocols like HTTPS to encrypt data transmitted between the mobile device / PC and server to prevent man-in-the-middle attacks.
         -  User authentication and authorization: Applications should provide secure user authentication and authorization mechanisms, such as two-factor authentication, to ensure that only authorized members can access sensitive data or functionality.
         -  Access control: Applications should restrict access to sensitive data or features to authorized members only and limit the permissions granted to each member based on their role or level of access.
         
@@ -255,7 +255,7 @@ Fitbit will be used over smartphones:
 
         -  Reliability: Good validations of members inputs will be done to avoid incorrect storage of records. 
         -  Maintainability: During the maintenance stage, SRS document can be referred for any validations. 
-        -  Portability: This system can be easily viewed in any mobile OS above the mentioned software version.
+        -  Portability: This system can be easily viewed in any mobile OS or PC OS above the mentioned software version.
         -  Flexibility: The system keeps on updating the data according to the fitness activity that takes place. 
         -  Timeless: The system carries out all the operations with consumption of very less time. 
         -  Security: Security of the system is maintained by giving access to only authenticated member id and password.
