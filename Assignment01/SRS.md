@@ -89,7 +89,48 @@
 
 ## 3. System Features
 
-   - ### **3.1 Functional Requirements**
+   - ### **3.1 System Feature 1**
+
+   The features that are available to the Admin are:  
+
+   - Admin can Add / Delete / Update Trainers and Customer details.  
+
+   - Admin has all rights to view the details of users.  
+
+   - Admin can also view Transaction Details and update fitness membership packages with the trainers. 
+
+   - Validate and verify trainers based upon their certification and feedback.
+
+   - ### **3.2 System Feature 2**
+
+   The features that are available to the users are  
+
+   - Can view profile history and details  
+
+   - Makes inquiries and can take training membership.  
+
+   - Can schedule a fitness consultancy session. 
+
+   - Can view their past fitness records. 
+
+   - Can create their self-fitness goals. 
+
+   - Can give feedback to the trainers. 
+
+   - Can provide feedback to the trainers and the fitness consultants 
+   - ### **3.3 System Feature 3**
+
+   The features that are available to the Trainer are:  
+
+   - Trainer can view Member details who have subscribed to them.  
+
+   - Accept or reschedule consultancy sessions with the users. 
+
+   - Provide their fitness work-out details to the users. 
+
+   - Can charge fees from the subscribed user. 
+
+   - Trainers can also add blogs and videos about their activities. 
 
 ## 4. External Interface Requirements
    - ### **4.1 User Interface Requirements**
