@@ -172,13 +172,28 @@ We intend to develop a mobile application as our desired solution, using Flutter
 
 ## 4. External Interface Requirements
    - ### **4.1 User Interface Requirements**
+   The user interface is designed in Flutter. The developer will have to study the designing of the product. The user of the product will get very user-friendly mobile features which will be very easy to work with. Our mobile application works for both Android and iOS. 
 
    -  ### **4.2 Hardware Interface Requirements**
+   This system doesn’t require any specific hardware interface. The one used here is a smartphone. The system should have these hardware requirements minimum of:  
+
+   Processor: Any processor with 1.5GHz speed 
+
+   Android: Lollipop 5.1.0 or above 
+
+   IOS: 12.0.0 or above 
+
+   RAM: 512MB or above 
+
+   Memory: 4GB or above 
      
    -  ### **4.3 Software Interface Requirements**
+   Operating System: Windows 11 
+   Front End: Flutter, Dart Programming Language. 
+   Back End: MySQL, C++ 
       
    -  ### **4.4 Communication Interface Requirements**
-     
+      Communication is done through internet and intranet mail or Telephones and Messaging 
 ## **5. Nonfunctional Requirements**
 
    -  ### **5.1 Performance Requirements**
