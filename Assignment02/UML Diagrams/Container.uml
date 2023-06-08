@@ -1,0 +1,24 @@
+@startuml
+package "Container Diagram" {
+  [Fitbit App]
+  [Cluster]
+  [Kubernetes]
+  [Container Manager]
+  [Docker]
+  [Overlay Network]
+  [Mongodb State]
+  [Resource Monitor]
+  [Container]
+}
+
+[Fitbit App] --> [Cluster]
+[Cluster] --> [Kubernetes]
+[Cluster] --> [Container Manager]
+[Container Manager] -->  [Docker]
+[Container Manager] --> [Overlay Network]
+[Overlay Network] --> [Mongodb State]
+[Mongodb State] --> [Resource Monitor]
+[Resource Monitor] --> [Container]
+[Container] -->[Fitbit App]
+
+@enduml

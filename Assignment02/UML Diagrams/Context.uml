@@ -1,0 +1,62 @@
+@startuml
+!theme vibrant
+package "Client-Side" {
+  [Fitbit/Mobile & Web App]
+  [User Interface]
+}
+
+package "Cloud" {
+  [Web Server]
+  [Application Layer]
+  [Authentication and Authorization]
+  [API Gateway]
+  [Steps Counter]
+  [Heart Rate]
+  [Water Tracking]
+  [Activity Monitoring]
+  [AI Model]
+  [Database]
+  [Caching & Storing]
+
+}
+
+package "Third-Party APIs" {
+  [External APIs]  
+  [Youtube APIs]
+  [Firebase]
+  
+}
+
+package "Infrastructure" {
+  [Scaling]
+  [Backup]
+  [Security Measures]
+}
+
+package "Analytics and Monitoring" {
+  [Logging]
+  [Analytics]
+  [ELK]
+}
+
+[Fitbit/Mobile & Web App] --> [Web Server]
+[Web Server] --> [Application Layer]
+[Application Layer] --> [Authentication and Authorization]
+[Application Layer] --> [API Gateway]
+[API Gateway] --> [Steps Counter]
+[API Gateway] --> [Heart Rate]
+[API Gateway] --> [Water Tracking]
+[API Gateway] --> [Activity Monitoring]
+[API Gateway] --> [AI Model]
+[API Gateway] --> [Database]
+[API Gateway] --> [Caching & Storing]
+[API Gateway] --> [Youtube APIs]
+[API Gateway] --> [Firebase]
+[API Gateway] --> [External APIs]
+[Database] --> [Backup]
+[AI Model] --> [Database]
+[AI Model] --> [Logging]
+[Web Server] --> [Security Measures]
+[Logging] --> [Analytics]
+[Logging] --> [ELK]
+@enduml
