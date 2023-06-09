@@ -15,16 +15,16 @@
 -  [5. Software Design Quality Analysis and Evaluation](#5-software-design-quality-analysis-and-evaluation)
    -  [5.1 Non Functional Requirements](#51-non-functional-requirements)
    -  [5.2 Software Design Quality Analysis and Evaluation Technique](#52-software-design-quality-analysis-and-evaluation-technique)
-## 1   **Project Information**
+## 1 **Project Information**
 
 Fitbit Health and Wellness application monitors the health of a Fitbit member and provides information to them so that they can have a healthy lifestyle.
 
-## 2   **Software Design Fundamentals**
-### 2.1	  **Context of Software Design**
+## 2 **Software Design Fundamentals**
+### 2.1 **Context of Software Design**
 
 The Fitbit Application is a comprehensive and autonomous system which is developed to help multiple aspects of gym exercises. It efficiently manages exercise routines, generates detailed reports for members, handles trainer management, and effectively addresses administrative tasks. All data is securely stored in a centralized database accessible solely by the admin, who possesses unique IDs and carefully assigned permissions. The application has data integrity, strict restrictions which prevents members from modifying records belonging to other Fitbit Members. Moreover, the system incorporates robust data recovery mechanisms to safeguard against any potential loss of information.
 
-### 2.2	  **High Level Application Design**
+### 2.2 **High Level Application Design**
 
 Fitbit Application provides health and wellness consultation and advice to its subscribed members where they can enroll to different features present in it also. Fitbit also takes input from the members such as body weight, body height, age, disease (if any) and they can manually select their health goal. The AI model then computes the information and provides data to the subscribed member regarding BMS Index, diet chart, regular exercise routines, how much steps and stairs should be covered by the member in a day. The information consumed by our application is strictly confidential and private and cannot be shared to any third-party application.
 List of features present in the Fitbit Application:
@@ -39,11 +39,11 @@ List of features present in the Fitbit Application:
 
 <img height="500" width="500" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/WebAppDesign.png"> <img height="500" width="500" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/MobileAppDesign.png">
 
-### 2.3	  **Software Design Model**
+### 2.3 Software Design Model
 
 For designing the Fitbit Application, the development team follows Agile Model where all the requirements are gathered which can be fulfilled and are achievable. A desired plan was made of how these requirements can achieved in a stipulated amount of time. Creation of model was done where the planning flow was broadened up and a set of technologies were decided to construct the application, from the decided tech-stack the basic layout of application was built and if a new high priority requirement was introduced, was entertained in the same sprint. After the completion of sprint, retrospective is conducted to know what can be improved in upcoming development tasks. After the completion of retrospective, planning for next sprint starts.
 
-### 2.4	  **Software Design Principles**
+### 2.4 **Software Design Principles**
 
 Principles followed in designing the application:
 
