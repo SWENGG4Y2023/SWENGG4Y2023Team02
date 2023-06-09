@@ -7,7 +7,8 @@ This is the highest level of abstraction, representing the system as a whole and
 
 # Container Diagram (Level 2): 
 This level zooms in on the system and shows the major containers or subsystems that make up the system. A container is a runtime instance, such as a web server, a database, or a desktop application.
-<img height="500" width="600" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/ContainerUml.png">
+
+<img height="500" width="350" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/ContainerUml.png">
 
 
 # Component Diagram (Level 3): 
