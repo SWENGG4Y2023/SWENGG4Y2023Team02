@@ -1,4 +1,20 @@
 # Software Design Document
+
+## Table of Contents
+- [1. Project Information](#1-project-information)
+- [2. Software Design Fundamentals](#2-software-design-fundamentals)
+   -  [2.1 Context of Software Design](#21-context-of-software-design)
+   -  [2.2 High Level Application Design](#22-high-level-application-design)
+   -  [2.3 Software Design Model](#23-software-design-model)
+   -  [2.4 Software Design Principles](#24-software-design-principles)
+-  [3. Activity Diagram](#3-activity-diagram)
+-  [4. Key Issues in Software Design](#4-key-issues-in-software-design)
+   -  [4.1 Error and Exception Handling](#41-error-and-exception-handling)
+   -  [4.2 Security Issues](#42-security-issues)
+   -  [4.3 Concurrency Issues](#43-concurrency-issues)
+-  [5. Software Design Quality Analysis and Evaluation](#5-software-design-quality-analysis-and-evaluation)
+   -  [5.1 Non Functional Requirements](#51-non-functional-requirements)
+   -  [5.2 Software Design Quality Analysis and Evaluation Technique](#52-software-design-quality-analysis-and-evaluation-technique)
 ## 1   Project Information
 
 Fitbit Health and Wellness application monitors the health of a Fitbit member and provides information to them so that they can have a healthy lifestyle.
@@ -90,4 +106,33 @@ Developing a health & Fitness Application involves addressing various concurrenc
 3.	Thread Safety: If the Fitbit application utilizes multiple threads or processes, pay attention to thread safety. Ensure that shared data structures or resources are accessed and modified safely to prevent data corruption or race conditions. Use synchronization primitives, thread-safe data structures, or message passing mechanisms to coordinate concurrent activities.
 
 4.	Asynchronous Operations: Fitbit application may involve asynchronous operations, such as network requests, data processing, or background tasks. Proper handling of asynchronous operations is crucial to avoid blocking the user interface and ensure smooth execution without conflicts or data inconsistencies.
+
+## 5 Software Design Quality Analysis and Evaluation
+### 5.1 Non Functional Requirements
+
+1. Non-Functional Requirements, also known as Quality attributes or system qualities, are the desired characteristics or properties of a software system that define its overall quality. Some of the non-functional requirements are:
+
+2. Reliability: Reliability refers to the ability of a software system to perform its intended functions accurately and consistently over a specified period. It includes attributes such as fault tolerance, availability, recoverability, and error handling.
+
+3. Performance: Performance relates to the system's responsiveness, efficiency, scalability, and resource utilization. It encompasses attributes like response time, throughput, latency, and capacity. Performance goals ensure that the system meets user expectations and can handle expected loads.
+
+4. Maintainability: Maintainability focuses on the ease with which the software can be modified, enhanced, and repaired over its lifecycle. It includes attributes such as modularity, readability, extensibility, reusability, and testability. A maintainable system reduces maintenance efforts, enables quick bug fixes, and supports future enhancements.
+
+5. Usability: Usability relates to the ease of use, learnability, and user satisfaction with the software system. It encompasses attributes such as user interface design, intuitiveness, consistency, accessibility, and documentation. A usable system ensures a positive user experience and minimizes user errors or frustrations.
+
+6. Interoperability: Interoperability relates to the system's ability to interact and exchange data with other systems or components, often in a heterogeneous environment. It includes attributes such as adherence to standards, support for protocols and data formats, and compatibility with external systems. Interoperability enables seamless integration and collaboration between different software components.
+
+### 5.2 Software Design Quality Analysis and Evaluation Technique
+
+some quality analysis techniques used are:
+
+1. Code Reviews: Code reviews involve manual examination of the source code by peers or experts to identify defects, ensure adherence to coding standards, and improve overall code quality. This technique promotes collaboration, knowledge sharing, and early bug detection.
+
+2. Static Code Analysis: Static code analysis tools automatically analyze source code without executing it. These tools identify potential coding issues, such as syntax errors, code smells, security vulnerabilities, and adherence to coding standards. Static code analysis helps in early defect detection and code quality improvement.
+
+3. Unit Testing: Unit testing involves writing and executing small, focused tests on individual code units, such as functions or methods. It verifies the correctness of individual units and helps identify defects early in the development process. Unit testing frameworks and techniques, such as Test-Driven Development (TDD), play a crucial role in ensuring software quality.
+
+4. Security Testing: Security testing focuses on identifying vulnerabilities and weaknesses in the software's security controls. Techniques include vulnerability scanning, penetration testing, and code analysis to assess the software's resistance to attacks, data protection, and compliance with security standards.
+
+5. Peer Reviews: Peer reviews involve informal discussions or inspections where team members review and provide feedback on artifacts such as requirements documents, designs, or test plans. This technique promotes knowledge sharing, identifies inconsistencies, and improves overall quality through collaborative feedback.
 
