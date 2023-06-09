@@ -21,9 +21,9 @@ List of features present in the Fitbit Application:
 7.	Helps to Monitor Diet
 8.	AI-enabled workout schedule
 
-<img alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/WebAppDesign.png">
+<img height="500" width="500" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/WebAppDesign.png">
 
-<img alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/MobileAppDesign.png">
+<img height="500" width="500" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/MobileAppDesign.png">
 
 ### 2.3	  Software Design Model
 
@@ -51,7 +51,7 @@ Principles followed in designing the application:
 
 ## 3 Activity Diagram
 
-<img height="500" width="350" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/ActivityDiagram.png">
+<img height="500" width="500" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/ActivityDiagram.png">
 
 ## 4 Key Issues in Software Design
 ### 4.1 Error and Exception Handling
