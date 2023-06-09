@@ -49,7 +49,7 @@ Principles followed in designing the application:
 
 ## 3 Activity Diagram
 
-<img height="500" width="500" alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/ActivityDiagram.png">
+<img alt="Fitbit" src="https://raw.githubusercontent.com/SWENGG4Y2023/SWENGG4Y2023Team02/main/Assignment02/UML%20Diagrams/ActivityDiagram.png">
 
 ## 4 Key Issues in Software Design
 ### 4.1 Error and Exception Handling
