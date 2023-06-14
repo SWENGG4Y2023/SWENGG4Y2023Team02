@@ -1,4 +1,4 @@
-**Fitbit App Testing Document**
+# **Fitbit App Testing Document**
 
  -  ### **1. Introduction:**
 The purpose of this document is to outline the testing approach and test cases for the Fitbit app. The Fitbit app is a mobile application that allows users to track their health and fitness goals using Fitbit wearable devices.
