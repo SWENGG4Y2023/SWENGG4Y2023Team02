@@ -20,3 +20,6 @@ Overall, the Fitbit Health and Wellness app is a powerful tool for anyone lookin
 ### Stakeholder Document - [Here](https://github.com/SWENGG4Y2023/SWENGG4Y2023Team02/blob/main/Assignment01/Stakeholder.md)
 ### User requirements document (URD) Document - [Here](https://github.com/SWENGG4Y2023/SWENGG4Y2023Team02/blob/main/Assignment01/URD.md)
 ### Software Requirements Specification (SRS) Document  - [Here](https://github.com/SWENGG4Y2023/SWENGG4Y2023Team02/blob/main/Assignment01/SRS.md)
+### Architecture Document- [Here](https://github.com/SWENGG4Y2023/SWENGG4Y2023Team02/blob/main/Assignment02/Architecture.md)
+### Software Design Document- [Here](https://github.com/SWENGG4Y2023/SWENGG4Y2023Team02/blob/main/Assignment02/Design.md)
+### Fitbit App Testing Document- [Here](https://github.com/SWENGG4Y2023/SWENGG4Y2023Team02/blob/main/Assignment02/test.md)
